@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7a2e3f9c08fec344194065146d8910dd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraRig: {fileID: 6035402980473610535, guid: 816b79c00cc67684a92dc9fa6d9ceb3e,
+      type: 3}
+  - gameManager: {fileID: 2048350569193616878, guid: b6eadef682d68c542beec585b8acf21f,
+      type: 3}
+  - levelManager: {fileID: 1790846619489835111, guid: c41224f0ee1db1a408e577d77ffa4329,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
